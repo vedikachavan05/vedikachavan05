@@ -55,6 +55,34 @@ I'm continuously learning, building, and improving one project at a time.
 
 ## 🚀 Featured Projects
 
+###🔐 EPLQ — Efficient Privacy-Preserving Location-Based Query
+A privacy-focused location-based query system that allows users to securely store and retrieve Points of Interest (POIs).
+
+**How it works:**
+- Users upload Points of Interest with location information.
+- Location data is encrypted before being stored in Firebase Firestore.
+- The system decrypts the stored data when performing location-based queries.
+- Users can find POIs based on their geographical proximity.
+
+**Tech Stack:** HTML • CSS • JavaScript • Firebase Firestore • Encryption • Geolocation
+
+---
+
+### 🤝 Investor–Advisor Bridge Platform
+A multi-level platform designed to connect investors with suitable business advisors in a single system.
+
+**Key Features:**
+- Investor and advisor profiles
+- Connection between investors and business advisors
+- Multi-level platform structure
+- Centralized interaction between different user roles
+- Designed to simplify finding and connecting with suitable advisors
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+
 ### 🩺 MedConnect
 A healthcare-focused web application designed to connect patients with doctors.
 
