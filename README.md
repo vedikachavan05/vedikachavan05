@@ -54,8 +54,7 @@ I'm continuously learning, building, and improving one project at a time.
 ---
 
 ## 🚀 Featured Projects
-
-###🔐 EPLQ — Efficient Privacy-Preserving Location-Based Query
+🔐 EPLQ — Efficient Privacy-Preserving Location-Based Query
 A privacy-focused location-based query system that allows users to securely store and retrieve Points of Interest (POIs).
 
 **How it works:**
